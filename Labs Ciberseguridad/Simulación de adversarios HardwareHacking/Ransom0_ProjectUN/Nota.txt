@@ -1,0 +1,13 @@
+Para la conversión del archivo .py a .exe fue necesario utilizar la librería auto-py-to-exe.
+
+
+Puede ser obtenida desde terminal del proyecto por:
+
+ pip3 install auto-py-to-exe
+
+Una vez instalado, y ejecutado el paquete mediante "auto-py-to-exe".
+
+Eligiremos la opción de transformar a archivo único y solamente escogiendo el script de ransom0.py
+
+Esto nos provee una archivo ejecutable por debajo de los 25mb haciéndolo fácil de almacenar en servicios web o hosting.
+
